@@ -1,0 +1,34 @@
+.username{
+  border: thick black solid;
+  margin: 24px;
+  text-align: center;
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+.password{
+  border: thick black solid;
+  margin: 24px;
+  background-color: lightseagreen;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#submit{
+  border: thick black solid;
+  text-align: center;
+  width: 75px;
+  height: 35px;
+  font-family: sans-serif;
+  background-color: lightpink;
+}
+
+#button{
+  margin: 5px;
+  font-family: sans-serif;
+  background-color: lightpink;
+}
+
+body{
+  background-color: lightgrey;
+}
